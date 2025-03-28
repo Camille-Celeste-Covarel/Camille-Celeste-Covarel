@@ -13,7 +13,7 @@
 
 - ♫ I learn violin, tango and classical danse
 
-- ⚡ Fun fact **Never gonna give you up, never gonna let you down**
+- ⚡ Fun fact **Never gonna give you up, never gonna let you down (niark niark niark)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
