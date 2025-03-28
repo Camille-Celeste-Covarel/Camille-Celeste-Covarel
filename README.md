@@ -7,6 +7,12 @@
 
 - 📄 Know about my experiences [I worked as Photographer and Graphic Designer.](I worked as Photographer and Graphic Designer.)
 
+- ♛ I would like to work in the cloud world as a devops or developer. However, I am open to any interesting job
+
+- ～ During my free time, i playling with my dedicated server 
+
+- ♫ I learn violin, tango and classical danse
+
 - ⚡ Fun fact **Never gonna give you up, never gonna let you down**
 
 <h3 align="left">Connect with me:</h3>
