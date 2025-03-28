@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camille Céleste Covarel (nickname "Constance" :) )</h1>
 <h3 align="center">Web development student to wild code school</h3>
 
-- 🌱 I’m currently learning **Javascript, Express,**
+- 🌱 I’m currently learning **Javascript, Express, Typescript and more langages**
 
 - 👨‍💻 All of my projects are available at [Soon (just need lot of tea before that)](Soon (just need lot of tea before that))
 
