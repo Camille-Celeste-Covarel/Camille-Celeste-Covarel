@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camille Céleste Covarel (nickname "Constance" :) )</h1>
 <h3 align="center">Web development student to wild code school</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Typescript, Express and more langages / Frameworks**
+- 📣 **I search an react alternance for septembre 25 ⭐**
+
+- 🌱 **I’m currently learning **Javascript, React, Typescript, Express and more langages / Frameworks**
 
 - 👨‍💻 All of my projects are available at [Soon (just need lot of tea before that)](Soon (just need lot of tea before that))
 
