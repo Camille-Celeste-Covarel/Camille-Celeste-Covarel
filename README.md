@@ -3,17 +3,17 @@
 
 - 📣 **I search an react alternance for septembre 25 ⭐**
 
-- 🌱 **I’m currently learning **Javascript, React, Typescript, Express and more langages / Frameworks**
+- 🌱 **I’m currently learning **Javascript**, **React**, **Typescript**, **Express** and **more langages / Frameworks...**
 
 - 👨‍💻 All of my projects are available at [Soon (just need lot of tea before that)](Soon (just need lot of tea before that))
 
-- 📄 Know about my experiences [I worked as Photographer and Graphic Designer.](I worked as Photographer and Graphic Designer.)
+- 📄 Know about my experiences [I worked as **Photographer** and **Graphic Designer**.](I worked as Photographer and Graphic Designer.)
 
-- ♛ I would like to work in the cloud world as a devops or developer. However, I am open to any interesting job
+- ♛ **I would like to work** in the **cloud world** as a **devops** or **developer**. **However, I am open to any interesting job**
 
-- ～ During my free time, i playling with my dedicated server 
+- ～ During my free time, **i playling with my dedicated server** 
 
-- ♫ I learn violin, tango and classical danse
+- ♫ **I learn violin, tango and classical danse**
 
 - ⚡ Fun fact **Never gonna give you up, never gonna let you down (niark niark niark)**
 
