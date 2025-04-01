@@ -9,7 +9,10 @@
 
 - 📄 Know about my experiences [I worked as **Photographer** and **Graphic Designer**.](I worked as Photographer and Graphic Designer.)
 
-- ♛ **I would like to work** in the **cloud world** as a **devops** or **developer**. **However, I am open to any interesting job**
+- ♛ **I would like to work** in the **cloud world** as a **devops** or **developer**.
+I'm drawn to the cloud due to its crucial role in data preservation and the benefits of decentralized resources for infrastructure resilience and scalability. It's a fascinating and comprehensive field.
+
+- **Obviously, I'm open to any interesting job 😀**
 
 - ～ During my free time, **i playling with my dedicated server** 
 
