@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript**, **React**, **Typescript**, **Express** and **more langages / Frameworks...**
 
-- 👨‍💻 All of my projects are available at [Soon (just need lot of tea before that)](Soon (just need lot of tea before that))
-
 - 📄 Know about my experiences [I worked as **Photographer** and **Graphic Designer**.](I worked as Photographer and Graphic Designer.)
 
 - ♛ **I would like to work** in the **cloud world** as a **devops** or **developer**.
