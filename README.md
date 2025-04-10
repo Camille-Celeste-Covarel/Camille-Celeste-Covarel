@@ -10,6 +10,8 @@
 - ♛ **I would like to work** in the **cloud world** as a **devops** or **developer**.
 I'm drawn to the cloud due to its crucial role in data preservation and the benefits of decentralized resources for infrastructure resilience and scalability. It's a fascinating and comprehensive field.
 
+- 🌼 Les repo avec le prefix **"Learning"** sont des repos qui sont utilisés pour **soumettre des solutions pendant ma formation. Ce ne sont pas de vrais projets.** 
+
 - **Obviously, I'm open to any interesting job 😀**
 
 - ～ During my free time, **i playling with my dedicated server** 
