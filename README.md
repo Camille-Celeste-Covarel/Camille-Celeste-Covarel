@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camille Céleste Covarel (nickname "Constance" :))</h1>
+<h1 align="center">Hi 👋, I'm Camille Céleste Covarel </h1>
 <h2 align="center">Web development student to wild code school</h2>
 
 <h3 align="center">「📣 <b>I search an | Dev JS React | Devops | Dev JS Angular alternance for Octobre 25 or January 26</b> ⭐」</h3>
