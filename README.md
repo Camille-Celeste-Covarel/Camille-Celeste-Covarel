@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camille Céleste Covarel </h1>
-<h2 align="center">Web development student to wild code school</h2>
+<h2 align="center">DevOps & React Web developer</h2>
 
 <h3 align="center">「📣 <b>I search an | Dev JS React | Devops alternance for November 25 </b> ⭐」</h3>
 
