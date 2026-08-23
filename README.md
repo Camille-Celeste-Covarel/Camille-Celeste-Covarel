@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camille Céleste Covarel </h1>
 <h2 align="center">Fullstack Developer | DevOps Operational</h2>
 
-<h3 align="center">「 🚀 Diplômée DWWM 2025 | Recherche poste DevOps ou Dev Backend ⭐ 」</h3>
+<h3 align="center">「 🚀 Diplômée DWWM 2025 | Devops ⭐ 」</h3>
 
 - 🎓 **Diplômée en décembre 2025** (Titre professionnel Développeur Web et Web Mobile).
 - 🛠️ **Projet Watts Up :** Lead Tech & DevOps sur une application de géolocalisation de bornes IRVE (136k points de charge). 
